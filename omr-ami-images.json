@@ -1,0 +1,33 @@
+"images": {
+                "aws": {
+                    "regions": {
+                        "af-south-1": {
+                            "release": "34.20210821.3.0",
+                            "image": "ami-0bde2bde601a1d640"
+                        },
+                        "ap-east-1": {
+                            "release": "34.20210821.3.0",
+                            "image": "ami-05d93271c94d74feb"
+                        },
+                        "ap-northeast-1": {
+                            "release": "34.20210821.3.0",
+                            "image": "ami-0391339ec29cb3e42"
+                        },
+                        "ap-northeast-2": {
+                            "release": "34.20210821.3.0",
+                            "image": "ami-00f197de801ab41ba"
+                        },
+                        "ap-northeast-3": {
+                            "release": "34.20210821.3.0",
+                            "image": "ami-08769df4bb2eba99e"
+                        },
+                        "ap-south-1": {
+                            "release": "34.20210821.3.0",
+                            "image": "ami-003caaaef262fb5b4"
+                        },
+                        "ap-southeast-1": {
+                            "release": "34.20210821.3.0",
+                            "image": "ami-0089fcac7a6ce9c82"
+                        }
+        }
+  }
