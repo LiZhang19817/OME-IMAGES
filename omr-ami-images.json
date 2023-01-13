@@ -4,7 +4,7 @@
       "regions": {
         "us-east-1": {
           "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP20",
-          "image": ""
+          "image": "ami-02e0bb36c61bb9715"
         },
         "us-east-2": {
           "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP2",
@@ -12,11 +12,11 @@
         },
         "us-west-1": {
           "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP2",
-          "image": ""
+          "image": "ami-054965c6cd7c6e462"
         },
         "us-west-2": {
           "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP2",
-          "image": ""
+          "image": "ami-0b28dfc7adc325ef4"
         }
       }
     }
