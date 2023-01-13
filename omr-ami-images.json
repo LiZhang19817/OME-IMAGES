@@ -1,24 +1,24 @@
 {
   "images": {
-                "aws": {
-                    "regions": {
-                        "us-east-1": {
-                            "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP20",
-                            "image": ""
-                        },
-                        "us-east-2": {
-                            "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP2",
-                            "image": "ami-0b2e47f3b2e23d235"
-                        },
-                        "us-west-1": {
-                            "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP2",
-                            "image": ""
-                        },
-                        "us-west-2": {
-                            "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP2",
-                            "image": ""
-                        }
-                             }
-                     }
-            }
+    "aws": {
+      "regions": {
+        "us-east-1": {
+          "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP20",
+          "image": ""
+        },
+        "us-east-2": {
+          "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP2",
+          "image": "ami-0b2e47f3b2e23d235"
+        },
+        "us-west-1": {
+          "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP2",
+          "image": ""
+        },
+        "us-west-2": {
+          "release": "RHEL_HA-8.4.0_HVM-20210504-x86_64-2-Hourly2-GP2",
+          "image": ""
+        }
+      }
+    }
   }
+}
